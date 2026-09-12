@@ -2,5 +2,7 @@ package com.example.repository;
 
 
 public class RepositoryDemo {
-  System.out.print(" ");
+  {
+    System.out.println();
+  }
 }
