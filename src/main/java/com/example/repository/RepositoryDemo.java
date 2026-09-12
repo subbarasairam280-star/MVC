@@ -1,5 +1,6 @@
 package com.example.repository;
 
-@Repository
+
 public class RepositoryDemo {
+  System.out.print(" ");
 }
