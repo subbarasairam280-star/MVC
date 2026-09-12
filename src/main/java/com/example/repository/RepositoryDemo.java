@@ -5,4 +5,8 @@ public class RepositoryDemo {
   {
     System.out.println();
   }
+
+  {
+    System.out.print();
+  }
 }
